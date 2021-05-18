@@ -1,0 +1,31 @@
+_repo: Mrs-Arthur-vol-3-of-3_65330
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Oliphant, Mrs. (Margaret)
+    aliases:
+    - Oliphant, Mrs. Margaret
+    - Olyphant, Mrs.
+    - Mrs. (Margaret) Oliphant
+    - Oliphant, Margaret Oliphant Wilson
+    - Wilson, Margaret
+    - Oliphant, M. O. W. (Margaret Oliphant Wilson)
+    - Oliphant, Mrs.
+    birthdate: 1828
+    deathdate: 1897
+    gutenberg_agent_id: '963'
+    url: http://www.gutenberg.org/2009/agents/963
+    wikipedia: https://en.wikipedia.org/wiki/Margaret_Oliphant_Oliphant
+description: ''
+gutenberg_issued: '2021-05-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65330'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Mrs. Arthur; vol. 3 of 3
+url: http://www.gutenberg.org/ebooks/65330
